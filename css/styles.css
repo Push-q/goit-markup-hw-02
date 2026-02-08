@@ -34,7 +34,7 @@ a {
 .nav-link:focus {
   color: #404bbf;
 }
-.сontacts {
+.contacts {
   font-style: normal;
 }
 .contacts-link {
@@ -142,5 +142,12 @@ a {
   color: #f4f4fd;
 }
 .logo-part-footer {
+  color: #f4f4fd;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
